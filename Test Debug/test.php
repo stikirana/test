@@ -6,7 +6,7 @@ $myvariable = "This is my variable.";
 $myvar = "Variabel tambahan 2";
 phpinfo();
 
-
+//Dipertahankan.
 if ($myvariable) {
 	$myvar = $myvariable . "test";
 }
