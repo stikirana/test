@@ -1,5 +1,5 @@
 <?php
-echo 'This is tes of XDebug.';
+echo 'Ini edit file branch.';
 echo 'Ditambah belajar Git, sdh mulai ga bingung';
 
 $myvariable = "This is my variable.";
