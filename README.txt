@@ -6,3 +6,5 @@ BELAJAR Git
 
 2
 ini edit di working are
+
+apa masuk stlh nambah di gitignore
